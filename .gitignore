@@ -1,0 +1,6 @@
+# Local dependency and build output
+node_modules/
+dist/
+
+# Preserve nested repository metadata locally, but never deploy or track it
+onlineshop-vue/.git-nested-backup/
